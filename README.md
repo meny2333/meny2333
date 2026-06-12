@@ -21,8 +21,8 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [**godot-line**](https://github.com/meny2333/godot-line) | 2D 线条渲染工具集，用于 Godot 引擎 | ![Stars](https://img.shields.io/github/stars/meny2333/godot-line?style=flat-square) |
-| [**GodotLineCollection**](https://github.com/meny2333/GodotLineCollection) | Godot 线条效果合集与示例 | ![Stars](https://img.shields.io/github/stars/meny2333/GodotLineCollection?style=flat-square) |
+| [**godot-line**](https://github.com/meny2333/godot-line) |  Godot 下的 DancingLine 游戏模板 | ![Stars](https://img.shields.io/github/stars/meny2333/godot-line?style=flat-square) |
+| [**GodotLineCollection**](https://github.com/meny2333/GodotLineCollection) | Godot 下的 DancingLine 关卡合集模板 | ![Stars](https://img.shields.io/github/stars/meny2333/GodotLineCollection?style=flat-square) |
 | [**InvertedWorld**](https://github.com/meny2333/InvertedWorld) | 反世界——Godot 实验性项目 | ![Stars](https://img.shields.io/github/stars/meny2333/InvertedWorld?style=flat-square) |
 
 ---
