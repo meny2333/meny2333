@@ -45,5 +45,3 @@
 ![Snake animation](https://github.com/meny2333/meny2333/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-> 💡 *"Building tools that make 2D line rendering in Godot easier."*
